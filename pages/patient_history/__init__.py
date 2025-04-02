@@ -1,0 +1,1 @@
+from .patient_history_new import patient_history_view 

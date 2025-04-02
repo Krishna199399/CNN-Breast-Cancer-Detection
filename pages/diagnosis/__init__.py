@@ -1,0 +1,1 @@
+from .diagnosis import diagnosis_history
